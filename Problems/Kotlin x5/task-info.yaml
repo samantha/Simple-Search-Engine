@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    fun main() {
+        TODO("Remove this line and write your solution here")
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4431
+status: Solved
+feedback:
+  message: "Failed. Runtime error\n\nError:\nException in thread \"main\" kotlin.NotImplementedError:\
+    \ An operation is not implemented: Remove this line and write your solution here\n\
+    \tat MainKt.main(main.kt:2)\n\tat MainKt.main(main.kt)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native\
+    \ Method)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\
+    \tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\
+    \tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\n\tat org.jetbrains.kotlin.runner.AbstractRunner.run(runners.kt:61)\n\
+    \tat org.jetbrains.kotlin.runner.Main.run(Main.kt:109)\n\tat org.jetbrains.kotlin.runner.Main.main(Main.kt:119)\n"
+  time: Fri, 10 Jul 2020 07:32:50 UTC
+record: -1
